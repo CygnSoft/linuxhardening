@@ -163,6 +163,8 @@ start_hardening() {
     # Additional instructions for the new user
     echo "Hardening process completed."
     echo "Note: A private key is located in the home directory of the new user. It should be deleted immediately. Also, the user should disable Password Authentication in /etc/ssh/sshd_config."
+	read -p "Press any key to return to the main menu
+	> "
 }
 
 # Function to display information about the script

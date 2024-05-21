@@ -10,7 +10,7 @@ Through our projects, we aim to contribute to a safer digital environment and em
 
 If further adjustments are needed, feel free to let me know!
 
-You can visit us on our CygnSoft Website
+You can visit us on our [CygnSoft Website](http://www.cygnsoft.com)
 
 ## Usage
 
